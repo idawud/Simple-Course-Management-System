@@ -7,6 +7,7 @@ courses he/she is currently enrolled in plus the total cost of all the courses e
 ## Database
 The database used in this application is an open source lightweight relational database called " SQLite3 ".
 Read More: https://sqlite.org/
+
 By default Pyhton3 comes with SQLite3 and since I used  Python3 in my production no extra setup is needed.
 Also there is no need to manually craete any databases or table(s) all will be taken care by the program.
 
